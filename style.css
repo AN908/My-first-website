@@ -1,0 +1,92 @@
+h1 {
+  color: blue;
+  font-size: 40px;
+  font-family: fantasy;
+  font-weight: lighter;
+}
+
+html {
+  width: 1300px;
+  background-color: lightskyblue;
+  margin: auto;
+}
+
+body {
+  border: 5px solid gray;
+  border-radius: 18px;
+  background-color: white;
+  text-align: center;
+  padding: 0px 200px;
+}
+
+#last-sentence {
+  border: 3px solid green;
+  background-color: lightgray;
+  border-radius: 7px;
+  margin-bottom: 50px;
+  padding: 5px;
+}
+
+p:hover {
+  border: 2px solid slategray;
+  background-color: lightslategray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.images {
+  border: 2px solid black;
+  border-radius: 25px;
+}
+
+ul:hover {
+  border: 3px solid rgb(21, 252, 0);
+  background-color: whitesmoke;
+  text-decoration-color: black;
+}
+
+#csgo {
+  border: 4px solid black;
+  border-radius: 15px;
+}
+
+.images2:hover {
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+h1 {
+  border: 3px solid blue;
+  border-radius: 15px;
+  background-color: lightgray;
+  font-weight: bolder;
+  text-decoration: dashed;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  border: 3px solid red;
+  padding: 5px 0px;
+  border-radius: 15px;
+  background-color: lightgoldenrodyellow;
+  text-decoration: underline;
+}
+
+#redtext {
+  background-color: lightgray;
+}
+
+img {
+  border-radius: 15px;
+}
+
+hr {
+  color: black;
+}
+
+ul {
+  width: 200px;
+  margin: auto;
+}
